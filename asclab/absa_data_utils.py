@@ -19,27 +19,11 @@ import os
 from collections import defaultdict
 import random
 
-from pytorch_pretrained_bert.tokenization import BertTokenizer
-
-class ABSATokenizer(BertTokenizer):     
-    def subword_tokenize(self, tokens, labels): # for AE
-        split_tokens, split_labels= [], []
-        idx_map=[]
-        for ix, token in enumerate(tokens):
-            sub_tokens=self.wordpiece_tokenizer.tokenize(token)
-            for jx, sub_token in enumerate(sub_tokens):
-                split_tokens.append(sub_token)
-                if labels[ix]=="B" and jx>0:
-                    split_labels.append("I")
-                else:
-                    split_labels.append(labels[ix])
-                idx_map.append(ix)
-        return split_tokens, split_labels, idx_map
 
 class InputExample(object):
     """A single training/test example for simple sequence classification."""
 
-    def __init__(self, guid, text_a, text_b=None, label=None, weight=None):
+    def __init__(self, guid, text_a, text_b=None, label=None, contra=None):
         """Constructs a InputExample.
 
         Args:
@@ -55,18 +39,18 @@ class InputExample(object):
         self.text_a = text_a
         self.text_b = text_b
         self.label = label
-        self.weight = weight
+        self.contra = contra
 
 
 class InputFeatures(object):
     """A single set of features of data."""
 
-    def __init__(self, input_ids, input_mask, segment_ids, label_id, weight):
+    def __init__(self, input_ids, input_mask, segment_ids, label_id, contra):
         self.input_ids = input_ids
         self.input_mask = input_mask
         self.segment_ids = segment_ids
         self.label_id = label_id
-        self.weight = weight
+        self.contra = contra
 
 
 class DataProcessor(object):
@@ -93,41 +77,7 @@ class DataProcessor(object):
         """Reads a json file for tasks in sentiment analysis."""
         with open(input_file) as f:
             return json.load(f)
-        
-        
-class AeProcessor(DataProcessor):
-    """Processor for the SemEval Aspect Extraction ."""
 
-    def get_train_examples(self, data_dir, fn="train.json"):
-        """See base class."""
-        return self._create_examples(
-            self._read_json(os.path.join(data_dir, fn)), "train")
-
-    def get_dev_examples(self, data_dir, fn="dev.json"):
-        """See base class."""
-        return self._create_examples(
-            self._read_json(os.path.join(data_dir, fn)), "dev")
-    
-    def get_test_examples(self, data_dir, fn="test.json"):
-        """See base class."""
-        return self._create_examples(
-            self._read_json(os.path.join(data_dir, fn)), "test")
-
-    def get_labels(self):
-        """See base class."""
-        return ["O", "B", "I"]
-
-    def _create_examples(self, lines, set_type):
-        """Creates examples for the training and dev sets."""
-        examples = []
-        for (i, ids) in enumerate(lines):
-            guid = "%s-%s" % (set_type, ids )
-            text_a = lines[ids]['sentence']
-            label = lines[ids]['label']
-            examples.append(
-                InputExample(guid=guid, text_a=text_a, label=label) )
-        return examples        
-        
 
 class AscProcessor(DataProcessor):
     """Processor for the SemEval Aspect Sentiment Classification."""
@@ -161,9 +111,9 @@ class AscProcessor(DataProcessor):
             text_a = lines[ids]['term']
             text_b = lines[ids]['sentence']
             label = lines[ids]['polarity']
-            weight = lines[ids]['weight'] if 'weight' in lines[ids] else 1.
+            contra = lines[ids]['contra']
             examples.append(
-                InputExample(guid=guid, text_a=text_a, text_b=text_b, label=label, weight=weight) )
+                InputExample(guid=guid, text_a=text_a, text_b=text_b, label=label, contra=contra) )
         return examples     
     
 def convert_examples_to_features(examples, label_list, max_seq_length, tokenizer, mode, evalmode="asp"):
@@ -243,7 +193,7 @@ def convert_examples_to_features(examples, label_list, max_seq_length, tokenizer
                         input_mask=input_mask,
                         segment_ids=segment_ids,
                         label_id=label_id, 
-                        weight=example.weight
+                        contra=example.contra
                 )
         )
     return features

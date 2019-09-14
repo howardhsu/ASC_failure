@@ -1,0 +1,1523 @@
+{
+    "1009:1_0": {
+        "contra": true, 
+        "id": "1009:1_0", 
+        "polarity": "positive", 
+        "sentence": "I had to buy a wireless mouse to go with it, as I am old school and hate the pad, but knew that before I bought it, now it works great, need to get adjusted to the key board, as I am used to a bigger one and pounding.", 
+        "term": "works"
+    }, 
+    "1009:1_1": {
+        "contra": true, 
+        "id": "1009:1_1", 
+        "polarity": "neutral", 
+        "sentence": "I had to buy a wireless mouse to go with it, as I am old school and hate the pad, but knew that before I bought it, now it works great, need to get adjusted to the key board, as I am used to a bigger one and pounding.", 
+        "term": "wireless mouse"
+    }, 
+    "1009:1_2": {
+        "contra": true, 
+        "id": "1009:1_2", 
+        "polarity": "negative", 
+        "sentence": "I had to buy a wireless mouse to go with it, as I am old school and hate the pad, but knew that before I bought it, now it works great, need to get adjusted to the key board, as I am used to a bigger one and pounding.", 
+        "term": "pad"
+    }, 
+    "1009:1_3": {
+        "contra": true, 
+        "id": "1009:1_3", 
+        "polarity": "neutral", 
+        "sentence": "I had to buy a wireless mouse to go with it, as I am old school and hate the pad, but knew that before I bought it, now it works great, need to get adjusted to the key board, as I am used to a bigger one and pounding.", 
+        "term": "key board"
+    }, 
+    "1020:1_0": {
+        "contra": true, 
+        "id": "1020:1_0", 
+        "polarity": "positive", 
+        "sentence": "Has all the other features I wanted including a VGA port, HDMI, ethernet and 3 USB ports.", 
+        "term": "features"
+    }, 
+    "1020:1_1": {
+        "contra": true, 
+        "id": "1020:1_1", 
+        "polarity": "neutral", 
+        "sentence": "Has all the other features I wanted including a VGA port, HDMI, ethernet and 3 USB ports.", 
+        "term": "USB ports"
+    }, 
+    "1020:1_2": {
+        "contra": true, 
+        "id": "1020:1_2", 
+        "polarity": "neutral", 
+        "sentence": "Has all the other features I wanted including a VGA port, HDMI, ethernet and 3 USB ports.", 
+        "term": "VGA port"
+    }, 
+    "1020:1_3": {
+        "contra": true, 
+        "id": "1020:1_3", 
+        "polarity": "neutral", 
+        "sentence": "Has all the other features I wanted including a VGA port, HDMI, ethernet and 3 USB ports.", 
+        "term": "ethernet"
+    }, 
+    "1020:1_4": {
+        "contra": true, 
+        "id": "1020:1_4", 
+        "polarity": "neutral", 
+        "sentence": "Has all the other features I wanted including a VGA port, HDMI, ethernet and 3 USB ports.", 
+        "term": "HDMI"
+    }, 
+    "1035:1_0": {
+        "contra": true, 
+        "id": "1035:1_0", 
+        "polarity": "negative", 
+        "sentence": "The power plug has to be connected to the power adaptor to charge the battery but won't stay connected.", 
+        "term": "power plug"
+    }, 
+    "1035:1_1": {
+        "contra": true, 
+        "id": "1035:1_1", 
+        "polarity": "neutral", 
+        "sentence": "The power plug has to be connected to the power adaptor to charge the battery but won't stay connected.", 
+        "term": "power adaptor"
+    }, 
+    "1035:1_2": {
+        "contra": true, 
+        "id": "1035:1_2", 
+        "polarity": "neutral", 
+        "sentence": "The power plug has to be connected to the power adaptor to charge the battery but won't stay connected.", 
+        "term": "battery"
+    }, 
+    "1074:1_0": {
+        "contra": true, 
+        "id": "1074:1_0", 
+        "polarity": "neutral", 
+        "sentence": "The only thing I dislike is the touchpad, alot of the times its unresponsive and does things I dont want it too, I would recommend using a mouse with it.", 
+        "term": "mouse"
+    }, 
+    "1074:1_1": {
+        "contra": true, 
+        "id": "1074:1_1", 
+        "polarity": "negative", 
+        "sentence": "The only thing I dislike is the touchpad, alot of the times its unresponsive and does things I dont want it too, I would recommend using a mouse with it.", 
+        "term": "touchpad"
+    }, 
+    "11:1_0": {
+        "contra": true, 
+        "id": "11:1_0", 
+        "polarity": "neutral", 
+        "sentence": "The case is now slightly larger than the previous generation, but the lack of an external power supply justifies the small increase in size.", 
+        "term": "external power supply"
+    }, 
+    "11:1_1": {
+        "contra": true, 
+        "id": "11:1_1", 
+        "polarity": "negative", 
+        "sentence": "The case is now slightly larger than the previous generation, but the lack of an external power supply justifies the small increase in size.", 
+        "term": "case"
+    }, 
+    "123:1_0": {
+        "contra": true, 
+        "id": "123:1_0", 
+        "polarity": "neutral", 
+        "sentence": "Put a SSD and use a 21\" LED screen, this set up is silky smooth!", 
+        "term": "21\" LED screen"
+    }, 
+    "123:1_1": {
+        "contra": true, 
+        "id": "123:1_1", 
+        "polarity": "positive", 
+        "sentence": "Put a SSD and use a 21\" LED screen, this set up is silky smooth!", 
+        "term": "set up"
+    }, 
+    "123:1_2": {
+        "contra": true, 
+        "id": "123:1_2", 
+        "polarity": "neutral", 
+        "sentence": "Put a SSD and use a 21\" LED screen, this set up is silky smooth!", 
+        "term": "SSD"
+    }, 
+    "19:1_0": {
+        "contra": true, 
+        "id": "19:1_0", 
+        "polarity": "neutral", 
+        "sentence": "Apple removed the DVD drive Firewire port (will work with adapter) and put the SDXC slot in a silly position on the back.", 
+        "term": "adapter"
+    }, 
+    "19:1_1": {
+        "contra": true, 
+        "id": "19:1_1", 
+        "polarity": "neutral", 
+        "sentence": "Apple removed the DVD drive Firewire port (will work with adapter) and put the SDXC slot in a silly position on the back.", 
+        "term": "DVD drive Firewire port"
+    }, 
+    "19:1_2": {
+        "contra": true, 
+        "id": "19:1_2", 
+        "polarity": "negative", 
+        "sentence": "Apple removed the DVD drive Firewire port (will work with adapter) and put the SDXC slot in a silly position on the back.", 
+        "term": "SDXC slot"
+    }, 
+    "217:1_0": {
+        "contra": true, 
+        "id": "217:1_0", 
+        "polarity": "negative", 
+        "sentence": "Needs a CD/DVD drive and a bigger power switch.", 
+        "term": "power switch"
+    }, 
+    "217:1_1": {
+        "contra": true, 
+        "id": "217:1_1", 
+        "polarity": "neutral", 
+        "sentence": "Needs a CD/DVD drive and a bigger power switch.", 
+        "term": "CD/DVD drive"
+    }, 
+    "227:1_0": {
+        "contra": true, 
+        "id": "227:1_0", 
+        "polarity": "neutral", 
+        "sentence": "I like the Mini Mac it was easy to setup and install, but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu.", 
+        "term": "right mouse click menu"
+    }, 
+    "227:1_1": {
+        "contra": true, 
+        "id": "227:1_1", 
+        "polarity": "neutral", 
+        "sentence": "I like the Mini Mac it was easy to setup and install, but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu.", 
+        "term": "features"
+    }, 
+    "227:1_2": {
+        "contra": true, 
+        "id": "227:1_2", 
+        "polarity": "positive", 
+        "sentence": "I like the Mini Mac it was easy to setup and install, but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu.", 
+        "term": "setup"
+    }, 
+    "227:1_3": {
+        "contra": true, 
+        "id": "227:1_3", 
+        "polarity": "neutral", 
+        "sentence": "I like the Mini Mac it was easy to setup and install, but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu.", 
+        "term": "tutorial"
+    }, 
+    "227:1_4": {
+        "contra": true, 
+        "id": "227:1_4", 
+        "polarity": "positive", 
+        "sentence": "I like the Mini Mac it was easy to setup and install, but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu.", 
+        "term": "install"
+    }, 
+    "245:1_0": {
+        "contra": true, 
+        "id": "245:1_0", 
+        "polarity": "neutral", 
+        "sentence": "No Cd Rom in the new version there's no way I'm spending that kind of money on something has less features than the older version.", 
+        "term": "Cd Rom"
+    }, 
+    "245:1_1": {
+        "contra": true, 
+        "id": "245:1_1", 
+        "polarity": "negative", 
+        "sentence": "No Cd Rom in the new version there's no way I'm spending that kind of money on something has less features than the older version.", 
+        "term": "features"
+    }, 
+    "267:1_0": {
+        "contra": true, 
+        "id": "267:1_0", 
+        "polarity": "neutral", 
+        "sentence": "The Like New condition of the iMac MC309LL/A on Amazon is at $900+ level only, and it is a Quad-Core 2.5 GHz CPU (similar to the $799 Mini), with Radeon HD 6750M 512MB graphic card (this mini is integrated Intel 4000 card), and it even comes with wireless Apple Keyboard and Mouse, all put together in neat and nice package.", 
+        "term": "wireless Apple Keyboard and Mouse"
+    }, 
+    "267:1_1": {
+        "contra": true, 
+        "id": "267:1_1", 
+        "polarity": "positive", 
+        "sentence": "The Like New condition of the iMac MC309LL/A on Amazon is at $900+ level only, and it is a Quad-Core 2.5 GHz CPU (similar to the $799 Mini), with Radeon HD 6750M 512MB graphic card (this mini is integrated Intel 4000 card), and it even comes with wireless Apple Keyboard and Mouse, all put together in neat and nice package.", 
+        "term": "package"
+    }, 
+    "267:1_2": {
+        "contra": true, 
+        "id": "267:1_2", 
+        "polarity": "neutral", 
+        "sentence": "The Like New condition of the iMac MC309LL/A on Amazon is at $900+ level only, and it is a Quad-Core 2.5 GHz CPU (similar to the $799 Mini), with Radeon HD 6750M 512MB graphic card (this mini is integrated Intel 4000 card), and it even comes with wireless Apple Keyboard and Mouse, all put together in neat and nice package.", 
+        "term": "Quad-Core 2.5 GHz CPU"
+    }, 
+    "267:1_3": {
+        "contra": true, 
+        "id": "267:1_3", 
+        "polarity": "neutral", 
+        "sentence": "The Like New condition of the iMac MC309LL/A on Amazon is at $900+ level only, and it is a Quad-Core 2.5 GHz CPU (similar to the $799 Mini), with Radeon HD 6750M 512MB graphic card (this mini is integrated Intel 4000 card), and it even comes with wireless Apple Keyboard and Mouse, all put together in neat and nice package.", 
+        "term": "integrated Intel 4000 card"
+    }, 
+    "267:1_4": {
+        "contra": true, 
+        "id": "267:1_4", 
+        "polarity": "neutral", 
+        "sentence": "The Like New condition of the iMac MC309LL/A on Amazon is at $900+ level only, and it is a Quad-Core 2.5 GHz CPU (similar to the $799 Mini), with Radeon HD 6750M 512MB graphic card (this mini is integrated Intel 4000 card), and it even comes with wireless Apple Keyboard and Mouse, all put together in neat and nice package.", 
+        "term": "Radeon HD 6750M 512MB graphic card"
+    }, 
+    "272:10_0": {
+        "contra": true, 
+        "id": "272:10_0", 
+        "polarity": "positive", 
+        "sentence": "air has higher resolution but the fonts are small.", 
+        "term": "resolution"
+    }, 
+    "272:10_1": {
+        "contra": true, 
+        "id": "272:10_1", 
+        "polarity": "negative", 
+        "sentence": "air has higher resolution but the fonts are small.", 
+        "term": "fonts"
+    }, 
+    "275:12_0": {
+        "contra": true, 
+        "id": "275:12_0", 
+        "polarity": "positive", 
+        "sentence": "Plus two finger clicking as a replacement for the right click button is surprisingly intuitive.", 
+        "term": "two finger clicking"
+    }, 
+    "275:12_1": {
+        "contra": true, 
+        "id": "275:12_1", 
+        "polarity": "neutral", 
+        "sentence": "Plus two finger clicking as a replacement for the right click button is surprisingly intuitive.", 
+        "term": "right click button"
+    }, 
+    "286:15_0": {
+        "contra": true, 
+        "id": "286:15_0", 
+        "polarity": "positive", 
+        "sentence": "I opted for the SquareTrade 3-Year Computer Accidental Protection Warranty ($1500-2000) which also support \"accidents\" like drops and spills that are NOT covered by AppleCare.", 
+        "term": "SquareTrade 3-Year Computer Accidental Protection Warranty"
+    }, 
+    "286:15_1": {
+        "contra": true, 
+        "id": "286:15_1", 
+        "polarity": "negative", 
+        "sentence": "I opted for the SquareTrade 3-Year Computer Accidental Protection Warranty ($1500-2000) which also support \"accidents\" like drops and spills that are NOT covered by AppleCare.", 
+        "term": "AppleCare"
+    }, 
+    "286:1_0": {
+        "contra": true, 
+        "id": "286:1_0", 
+        "polarity": "negative", 
+        "sentence": "Note, however, that any existing MagSafe accessories you have will not work with the MagSafe 2 connection.", 
+        "term": "MagSafe 2 connection"
+    }, 
+    "286:1_1": {
+        "contra": true, 
+        "id": "286:1_1", 
+        "polarity": "neutral", 
+        "sentence": "Note, however, that any existing MagSafe accessories you have will not work with the MagSafe 2 connection.", 
+        "term": "MagSafe accessories"
+    }, 
+    "29:319_0": {
+        "contra": true, 
+        "id": "29:319_0", 
+        "polarity": "positive", 
+        "sentence": "USB3 Peripherals are noticably less expensive than the ThunderBolt ones.", 
+        "term": "USB3 Peripherals"
+    }, 
+    "29:319_1": {
+        "contra": true, 
+        "id": "29:319_1", 
+        "polarity": "negative", 
+        "sentence": "USB3 Peripherals are noticably less expensive than the ThunderBolt ones.", 
+        "term": "ThunderBolt"
+    }, 
+    "315:1_0": {
+        "contra": true, 
+        "id": "315:1_0", 
+        "polarity": "neutral", 
+        "sentence": "The Mountain Lion OS is not hard to figure out if you are familiar with Microsoft Windows.", 
+        "term": "Microsoft Windows"
+    }, 
+    "315:1_1": {
+        "contra": true, 
+        "id": "315:1_1", 
+        "polarity": "positive", 
+        "sentence": "The Mountain Lion OS is not hard to figure out if you are familiar with Microsoft Windows.", 
+        "term": "Mountain Lion OS"
+    }, 
+    "325:1_0": {
+        "contra": true, 
+        "id": "325:1_0", 
+        "polarity": "neutral", 
+        "sentence": "Additionally, there is barely a ventilation system in the computer, and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot, and in fact impossible to keep on lap.", 
+        "term": "watching videos"
+    }, 
+    "325:1_1": {
+        "contra": true, 
+        "id": "325:1_1", 
+        "polarity": "negative", 
+        "sentence": "Additionally, there is barely a ventilation system in the computer, and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot, and in fact impossible to keep on lap.", 
+        "term": "ventilation system"
+    }, 
+    "325:1_2": {
+        "contra": true, 
+        "id": "325:1_2", 
+        "polarity": "neutral", 
+        "sentence": "Additionally, there is barely a ventilation system in the computer, and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot, and in fact impossible to keep on lap.", 
+        "term": "playing steam games"
+    }, 
+    "420:1_0": {
+        "contra": true, 
+        "id": "420:1_0", 
+        "polarity": "neutral", 
+        "sentence": "fast, great screen, beautiful apps for a laptop;priced at 1100 on the apple website;amazon had it for 1098+ tax -  plus i had a 10% off coupon from amazon-cost me 998 plus tax- 1070- OTD!", 
+        "term": "cost"
+    }, 
+    "420:1_1": {
+        "contra": true, 
+        "id": "420:1_1", 
+        "polarity": "positive", 
+        "sentence": "fast, great screen, beautiful apps for a laptop;priced at 1100 on the apple website;amazon had it for 1098+ tax -  plus i had a 10% off coupon from amazon-cost me 998 plus tax- 1070- OTD!", 
+        "term": "screen"
+    }, 
+    "420:1_2": {
+        "contra": true, 
+        "id": "420:1_2", 
+        "polarity": "positive", 
+        "sentence": "fast, great screen, beautiful apps for a laptop;priced at 1100 on the apple website;amazon had it for 1098+ tax -  plus i had a 10% off coupon from amazon-cost me 998 plus tax- 1070- OTD!", 
+        "term": "apps"
+    }, 
+    "420:1_3": {
+        "contra": true, 
+        "id": "420:1_3", 
+        "polarity": "neutral", 
+        "sentence": "fast, great screen, beautiful apps for a laptop;priced at 1100 on the apple website;amazon had it for 1098+ tax -  plus i had a 10% off coupon from amazon-cost me 998 plus tax- 1070- OTD!", 
+        "term": "priced"
+    }, 
+    "469:1_0": {
+        "contra": true, 
+        "id": "469:1_0", 
+        "polarity": "positive", 
+        "sentence": "From the speed to the multi touch gestures this operating system beats Windows easily.", 
+        "term": "multi touch gestures"
+    }, 
+    "469:1_1": {
+        "contra": true, 
+        "id": "469:1_1", 
+        "polarity": "negative", 
+        "sentence": "From the speed to the multi touch gestures this operating system beats Windows easily.", 
+        "term": "Windows"
+    }, 
+    "469:1_2": {
+        "contra": true, 
+        "id": "469:1_2", 
+        "polarity": "positive", 
+        "sentence": "From the speed to the multi touch gestures this operating system beats Windows easily.", 
+        "term": "speed"
+    }, 
+    "469:1_3": {
+        "contra": true, 
+        "id": "469:1_3", 
+        "polarity": "positive", 
+        "sentence": "From the speed to the multi touch gestures this operating system beats Windows easily.", 
+        "term": "operating system"
+    }, 
+    "500:1_0": {
+        "contra": true, 
+        "id": "500:1_0", 
+        "polarity": "neutral", 
+        "sentence": "I was a little worry at first because I don't have a lot of experience with os.x and windows has always been second nature to me after many years of using windows.", 
+        "term": "windows"
+    }, 
+    "500:1_1": {
+        "contra": true, 
+        "id": "500:1_1", 
+        "polarity": "neutral", 
+        "sentence": "I was a little worry at first because I don't have a lot of experience with os.x and windows has always been second nature to me after many years of using windows.", 
+        "term": "os.x"
+    }, 
+    "500:1_2": {
+        "contra": true, 
+        "id": "500:1_2", 
+        "polarity": "positive", 
+        "sentence": "I was a little worry at first because I don't have a lot of experience with os.x and windows has always been second nature to me after many years of using windows.", 
+        "term": "windows"
+    }, 
+    "626:1_0": {
+        "contra": true, 
+        "id": "626:1_0", 
+        "polarity": "positive", 
+        "sentence": "It just works out of the box and you have a lot of cool software included with the OS.", 
+        "term": "software"
+    }, 
+    "626:1_1": {
+        "contra": true, 
+        "id": "626:1_1", 
+        "polarity": "neutral", 
+        "sentence": "It just works out of the box and you have a lot of cool software included with the OS.", 
+        "term": "OS"
+    }, 
+    "626:1_2": {
+        "contra": true, 
+        "id": "626:1_2", 
+        "polarity": "positive", 
+        "sentence": "It just works out of the box and you have a lot of cool software included with the OS.", 
+        "term": "works"
+    }, 
+    "65:1_0": {
+        "contra": true, 
+        "id": "65:1_0", 
+        "polarity": "negative", 
+        "sentence": "Just beware no DVD slot so when I went to install software I had on CD I couldn't.", 
+        "term": "install software"
+    }, 
+    "65:1_1": {
+        "contra": true, 
+        "id": "65:1_1", 
+        "polarity": "neutral", 
+        "sentence": "Just beware no DVD slot so when I went to install software I had on CD I couldn't.", 
+        "term": "DVD slot"
+    }, 
+    "671:1_0": {
+        "contra": true, 
+        "id": "671:1_0", 
+        "polarity": "negative", 
+        "sentence": "Price was higher when purchased on MAC when compared to price showing on PC when I bought this product.", 
+        "term": "Price"
+    }, 
+    "671:1_1": {
+        "contra": true, 
+        "id": "671:1_1", 
+        "polarity": "positive", 
+        "sentence": "Price was higher when purchased on MAC when compared to price showing on PC when I bought this product.", 
+        "term": "price"
+    }, 
+    "692:1_0": {
+        "contra": true, 
+        "id": "692:1_0", 
+        "polarity": "neutral", 
+        "sentence": "Premium price for the OS more than anything else.", 
+        "term": "OS"
+    }, 
+    "692:1_1": {
+        "contra": true, 
+        "id": "692:1_1", 
+        "polarity": "positive", 
+        "sentence": "Premium price for the OS more than anything else.", 
+        "term": "price"
+    }, 
+    "755:1_0": {
+        "contra": true, 
+        "id": "755:1_0", 
+        "polarity": "positive", 
+        "sentence": "After replacing the spinning hard disk with an ssd drive, my mac is just flying.", 
+        "term": "ssd drive"
+    }, 
+    "755:1_1": {
+        "contra": true, 
+        "id": "755:1_1", 
+        "polarity": "neutral", 
+        "sentence": "After replacing the spinning hard disk with an ssd drive, my mac is just flying.", 
+        "term": "spinning hard disk"
+    }, 
+    "75:1_0": {
+        "contra": true, 
+        "id": "75:1_0", 
+        "polarity": "neutral", 
+        "sentence": "this Mac Mini does not have a built-in mic, and it would seem that its Mac OS 10.9 does not handle external microphones properly.", 
+        "term": "built-in mic"
+    }, 
+    "75:1_1": {
+        "contra": true, 
+        "id": "75:1_1", 
+        "polarity": "neutral", 
+        "sentence": "this Mac Mini does not have a built-in mic, and it would seem that its Mac OS 10.9 does not handle external microphones properly.", 
+        "term": "external microphones"
+    }, 
+    "75:1_2": {
+        "contra": true, 
+        "id": "75:1_2", 
+        "polarity": "negative", 
+        "sentence": "this Mac Mini does not have a built-in mic, and it would seem that its Mac OS 10.9 does not handle external microphones properly.", 
+        "term": "Mac OS 10.9"
+    }, 
+    "786:633_0": {
+        "contra": true, 
+        "id": "786:633_0", 
+        "polarity": "positive", 
+        "sentence": "This mac does come with an extender cable and I'm using mine right now hoping the cable will stay nice for the many years I plan on using this mac.", 
+        "term": "cable"
+    }, 
+    "786:633_1": {
+        "contra": true, 
+        "id": "786:633_1", 
+        "polarity": "neutral", 
+        "sentence": "This mac does come with an extender cable and I'm using mine right now hoping the cable will stay nice for the many years I plan on using this mac.", 
+        "term": "extender cable"
+    }, 
+    "787:193_0": {
+        "contra": true, 
+        "id": "787:193_0", 
+        "polarity": "neutral", 
+        "sentence": "And as for all the fancy finger swipes -- I just gave up and attached a mouse.", 
+        "term": "mouse"
+    }, 
+    "787:193_1": {
+        "contra": true, 
+        "id": "787:193_1", 
+        "polarity": "negative", 
+        "sentence": "And as for all the fancy finger swipes -- I just gave up and attached a mouse.", 
+        "term": "finger swipes"
+    }, 
+    "834:1_0": {
+        "contra": true, 
+        "id": "834:1_0", 
+        "polarity": "positive", 
+        "sentence": "A veryimportant feature is Firewire 800 which in my experience works better then USB3 (in PC enabled with USB3)I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7.", 
+        "term": "Windows 7"
+    }, 
+    "834:1_1": {
+        "contra": true, 
+        "id": "834:1_1", 
+        "polarity": "negative", 
+        "sentence": "A veryimportant feature is Firewire 800 which in my experience works better then USB3 (in PC enabled with USB3)I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7.", 
+        "term": "USB3"
+    }, 
+    "834:1_2": {
+        "contra": true, 
+        "id": "834:1_2", 
+        "polarity": "negative", 
+        "sentence": "A veryimportant feature is Firewire 800 which in my experience works better then USB3 (in PC enabled with USB3)I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7.", 
+        "term": "MAC OS"
+    }, 
+    "834:1_3": {
+        "contra": true, 
+        "id": "834:1_3", 
+        "polarity": "neutral", 
+        "sentence": "A veryimportant feature is Firewire 800 which in my experience works better then USB3 (in PC enabled with USB3)I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7.", 
+        "term": "USB3"
+    }, 
+    "834:1_4": {
+        "contra": true, 
+        "id": "834:1_4", 
+        "polarity": "positive", 
+        "sentence": "A veryimportant feature is Firewire 800 which in my experience works better then USB3 (in PC enabled with USB3)I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7.", 
+        "term": "Firewire 800"
+    }, 
+    "895:1_0": {
+        "contra": true, 
+        "id": "895:1_0", 
+        "polarity": "neutral", 
+        "sentence": "I did swap out the hard drive for a Samsung 830 SSD which I highly recommend.", 
+        "term": "hard drive"
+    }, 
+    "895:1_1": {
+        "contra": true, 
+        "id": "895:1_1", 
+        "polarity": "positive", 
+        "sentence": "I did swap out the hard drive for a Samsung 830 SSD which I highly recommend.", 
+        "term": "Samsung 830 SSD"
+    }, 
+    "898:3_0": {
+        "contra": true, 
+        "id": "898:3_0", 
+        "polarity": "neutral", 
+        "sentence": "It wakes in less than a second when I open the lid.", 
+        "term": "lid"
+    }, 
+    "898:3_1": {
+        "contra": true, 
+        "id": "898:3_1", 
+        "polarity": "positive", 
+        "sentence": "It wakes in less than a second when I open the lid.", 
+        "term": "wakes"
+    }, 
+    "90_0": {
+        "asin": "B00004LMEC", 
+        "contra": true, 
+        "id": "90_0", 
+        "polarity": "negative", 
+        "sentence": "Product was easy to set up and use, but had trouble with spacebar.", 
+        "term": "spacebar"
+    }, 
+    "90_1": {
+        "asin": "B00004LMEC", 
+        "contra": true, 
+        "id": "90_1", 
+        "polarity": "positive", 
+        "sentence": "Product was easy to set up and use, but had trouble with spacebar.", 
+        "term": "Product"
+    }, 
+    "910_0": {
+        "asin": "B00006FMYA", 
+        "contra": true, 
+        "id": "910_0", 
+        "polarity": "positive", 
+        "sentence": "I hated system 8 and 9 - I thought Windows 2000 was a lot better.", 
+        "term": "Windows 2000"
+    }, 
+    "910_1": {
+        "asin": "B00006FMYA", 
+        "contra": true, 
+        "id": "910_1", 
+        "polarity": "negative", 
+        "sentence": "I hated system 8 and 9 - I thought Windows 2000 was a lot better.", 
+        "term": "system 8"
+    }, 
+    "911_0": {
+        "asin": "B00006LS92", 
+        "contra": true, 
+        "id": "911_0", 
+        "polarity": "negative", 
+        "sentence": "I have nothing against Toshiba, although they've certainly laid a few eggs in the laptop market (the last one being a line 5005-S507 that featured a desktop CPU PIII that ran way too hot for the confined space of a laptop and resulted in numerous maddening shutdowns).", 
+        "term": "desktop CPU PIII"
+    }, 
+    "911_1": {
+        "asin": "B00006LS92", 
+        "contra": true, 
+        "id": "911_1", 
+        "polarity": "negative", 
+        "sentence": "I have nothing against Toshiba, although they've certainly laid a few eggs in the laptop market (the last one being a line 5005-S507 that featured a desktop CPU PIII that ran way too hot for the confined space of a laptop and resulted in numerous maddening shutdowns).", 
+        "term": "5005-S507"
+    }, 
+    "911_2": {
+        "asin": "B00006LS92", 
+        "contra": true, 
+        "id": "911_2", 
+        "polarity": "neutral", 
+        "sentence": "I have nothing against Toshiba, although they've certainly laid a few eggs in the laptop market (the last one being a line 5005-S507 that featured a desktop CPU PIII that ran way too hot for the confined space of a laptop and resulted in numerous maddening shutdowns).", 
+        "term": "Toshiba"
+    }, 
+    "912_0": {
+        "asin": "B00006LS92", 
+        "contra": true, 
+        "id": "912_0", 
+        "polarity": "neutral", 
+        "sentence": "While the machine plays DVDs (and this is a nice feature of laptops, one that can make long trips quite tolerable), it does so with disappointing aplomb (though given its chip & video card setup, this is what one would expect).", 
+        "term": "chip & video card setup"
+    }, 
+    "912_1": {
+        "asin": "B00006LS92", 
+        "contra": true, 
+        "id": "912_1", 
+        "polarity": "positive", 
+        "sentence": "While the machine plays DVDs (and this is a nice feature of laptops, one that can make long trips quite tolerable), it does so with disappointing aplomb (though given its chip & video card setup, this is what one would expect).", 
+        "term": "DVDs"
+    }, 
+    "912_2": {
+        "asin": "B00006LS92", 
+        "contra": true, 
+        "id": "912_2", 
+        "polarity": "negative", 
+        "sentence": "While the machine plays DVDs (and this is a nice feature of laptops, one that can make long trips quite tolerable), it does so with disappointing aplomb (though given its chip & video card setup, this is what one would expect).", 
+        "term": "aplomb"
+    }, 
+    "913_0": {
+        "asin": "B00006LS92", 
+        "contra": true, 
+        "id": "913_0", 
+        "polarity": "negative", 
+        "sentence": "Also irksome, it has no USB 2.0 ports (though it does have 3 USB 1.0 ports); these are becoming a necessity for many new high-speed peripherals.", 
+        "term": "USB 2.0 ports"
+    }, 
+    "913_1": {
+        "asin": "B00006LS92", 
+        "contra": true, 
+        "id": "913_1", 
+        "polarity": "positive", 
+        "sentence": "Also irksome, it has no USB 2.0 ports (though it does have 3 USB 1.0 ports); these are becoming a necessity for many new high-speed peripherals.", 
+        "term": "USB 1.0 ports"
+    }, 
+    "914_0": {
+        "asin": "B00006LS96", 
+        "contra": true, 
+        "id": "914_0", 
+        "polarity": "negative", 
+        "sentence": "I really love the 16 inch screen (it's not uxga though, and can't get the higher resolution) but this unit is made by a company in Taiwan called Compal.", 
+        "term": "Taiwan called Compal"
+    }, 
+    "914_1": {
+        "asin": "B00006LS96", 
+        "contra": true, 
+        "id": "914_1", 
+        "polarity": "negative", 
+        "sentence": "I really love the 16 inch screen (it's not uxga though, and can't get the higher resolution) but this unit is made by a company in Taiwan called Compal.", 
+        "term": "unit"
+    }, 
+    "914_2": {
+        "asin": "B00006LS96", 
+        "contra": true, 
+        "id": "914_2", 
+        "polarity": "positive", 
+        "sentence": "I really love the 16 inch screen (it's not uxga though, and can't get the higher resolution) but this unit is made by a company in Taiwan called Compal.", 
+        "term": "16 inch screen"
+    }, 
+    "915_0": {
+        "asin": "B00006LUJZ", 
+        "contra": true, 
+        "id": "915_0", 
+        "polarity": "negative", 
+        "sentence": "Its not a fault of the Athlon which runs at 600MHz most of the time but a bad design by Compaq.", 
+        "term": "design"
+    }, 
+    "915_1": {
+        "asin": "B00006LUJZ", 
+        "contra": true, 
+        "id": "915_1", 
+        "polarity": "negative", 
+        "sentence": "Its not a fault of the Athlon which runs at 600MHz most of the time but a bad design by Compaq.", 
+        "term": "Compaq"
+    }, 
+    "915_2": {
+        "asin": "B00006LUJZ", 
+        "contra": true, 
+        "id": "915_2", 
+        "polarity": "neutral", 
+        "sentence": "Its not a fault of the Athlon which runs at 600MHz most of the time but a bad design by Compaq.", 
+        "term": "Athlon"
+    }, 
+    "916_0": {
+        "asin": "B00007M5VO", 
+        "contra": true, 
+        "id": "916_0", 
+        "polarity": "neutral", 
+        "sentence": "I just bought an external keyboard iii) USB ports refuse to recognize my external mouse a lot of times.", 
+        "term": "external mouse"
+    }, 
+    "916_1": {
+        "asin": "B00007M5VO", 
+        "contra": true, 
+        "id": "916_1", 
+        "polarity": "negative", 
+        "sentence": "I just bought an external keyboard iii) USB ports refuse to recognize my external mouse a lot of times.", 
+        "term": "USB ports"
+    }, 
+    "917_0": {
+        "asin": "B00007M5Y8", 
+        "contra": true, 
+        "id": "917_0", 
+        "polarity": "positive", 
+        "sentence": "The Toshiba Satellite 1415-S105 can't beat the cheaper HP x125 on any grade except for sceen size (and there is a catch to that).", 
+        "term": "sceen size"
+    }, 
+    "917_1": {
+        "asin": "B00007M5Y8", 
+        "contra": true, 
+        "id": "917_1", 
+        "polarity": "negative", 
+        "sentence": "The Toshiba Satellite 1415-S105 can't beat the cheaper HP x125 on any grade except for sceen size (and there is a catch to that).", 
+        "term": "Toshiba Satellite 1415-S105"
+    }, 
+    "918_0": {
+        "asin": "B00007M5Y8", 
+        "contra": true, 
+        "id": "918_0", 
+        "polarity": "negative", 
+        "sentence": "So if you really want a 15\" and you don't care about screen quality, this might be okay for you.", 
+        "term": "screen quality"
+    }, 
+    "918_1": {
+        "asin": "B00007M5Y8", 
+        "contra": true, 
+        "id": "918_1", 
+        "polarity": "positive", 
+        "sentence": "So if you really want a 15\" and you don't care about screen quality, this might be okay for you.", 
+        "term": "15\""
+    }, 
+    "919_0": {
+        "asin": "B00007M5Y8", 
+        "contra": true, 
+        "id": "919_0", 
+        "polarity": "positive", 
+        "sentence": "It will probably phase out soon as HP rolls out some new lines for the year, but right now it's a great value.", 
+        "term": "value"
+    }, 
+    "919_1": {
+        "asin": "B00007M5Y8", 
+        "contra": true, 
+        "id": "919_1", 
+        "polarity": "neutral", 
+        "sentence": "It will probably phase out soon as HP rolls out some new lines for the year, but right now it's a great value.", 
+        "term": "HP"
+    }, 
+    "91_0": {
+        "asin": "B00004LMEC", 
+        "contra": true, 
+        "id": "91_0", 
+        "polarity": "positive", 
+        "sentence": "The machine is basic and probably meets the needs for most who buy it, but we bought it for an elderly aunt and the screen is not in black and white (it's a greyish background and blue font) and you cannot change the font size to larger.", 
+        "term": "machine"
+    }, 
+    "91_1": {
+        "asin": "B00004LMEC", 
+        "contra": true, 
+        "id": "91_1", 
+        "polarity": "negative", 
+        "sentence": "The machine is basic and probably meets the needs for most who buy it, but we bought it for an elderly aunt and the screen is not in black and white (it's a greyish background and blue font) and you cannot change the font size to larger.", 
+        "term": "screen"
+    }, 
+    "91_2": {
+        "asin": "B00004LMEC", 
+        "contra": true, 
+        "id": "91_2", 
+        "polarity": "negative", 
+        "sentence": "The machine is basic and probably meets the needs for most who buy it, but we bought it for an elderly aunt and the screen is not in black and white (it's a greyish background and blue font) and you cannot change the font size to larger.", 
+        "term": "font size"
+    }, 
+    "920_0": {
+        "asin": "B000086K0M", 
+        "contra": true, 
+        "id": "920_0", 
+        "polarity": "negative", 
+        "sentence": "However, I've never seen any of these with anything other than a non-upgradeable 32 MB Radeon 9000, which works for many games (e.g., it runs Rome Total War pretty well), but is definitely slipping below par.", 
+        "term": "32 MB Radeon 9000"
+    }, 
+    "920_1": {
+        "asin": "B000086K0M", 
+        "contra": true, 
+        "id": "920_1", 
+        "polarity": "positive", 
+        "sentence": "However, I've never seen any of these with anything other than a non-upgradeable 32 MB Radeon 9000, which works for many games (e.g., it runs Rome Total War pretty well), but is definitely slipping below par.", 
+        "term": "Rome Total War"
+    }, 
+    "921_0": {
+        "asin": "B00008RUL7", 
+        "contra": true, 
+        "id": "921_0", 
+        "polarity": "positive", 
+        "sentence": "I like this laptop, the only real complaint is that the battery life is no existent but overall it is a good laptop.", 
+        "term": "laptop"
+    }, 
+    "921_1": {
+        "asin": "B00008RUL7", 
+        "contra": true, 
+        "id": "921_1", 
+        "polarity": "negative", 
+        "sentence": "I like this laptop, the only real complaint is that the battery life is no existent but overall it is a good laptop.", 
+        "term": "battery life"
+    }, 
+    "922_0": {
+        "asin": "B00008RUL7", 
+        "contra": true, 
+        "id": "922_0", 
+        "polarity": "positive", 
+        "sentence": "I just bought this and speed and all the features are cool, but the 15 inch screen seems a little dim and blueish compared to my Samsung Synchmaster 151S that I have sitting on my desktop.", 
+        "term": "features"
+    }, 
+    "922_1": {
+        "asin": "B00008RUL7", 
+        "contra": true, 
+        "id": "922_1", 
+        "polarity": "positive", 
+        "sentence": "I just bought this and speed and all the features are cool, but the 15 inch screen seems a little dim and blueish compared to my Samsung Synchmaster 151S that I have sitting on my desktop.", 
+        "term": "speed"
+    }, 
+    "922_2": {
+        "asin": "B00008RUL7", 
+        "contra": true, 
+        "id": "922_2", 
+        "polarity": "negative", 
+        "sentence": "I just bought this and speed and all the features are cool, but the 15 inch screen seems a little dim and blueish compared to my Samsung Synchmaster 151S that I have sitting on my desktop.", 
+        "term": "15 inch screen"
+    }, 
+    "923_0": {
+        "asin": "B00008YGMB", 
+        "contra": true, 
+        "id": "923_0", 
+        "polarity": "negative", 
+        "sentence": "It's a great laptop but I had problems updating the BIOS.", 
+        "term": "BIOS"
+    }, 
+    "923_1": {
+        "asin": "B00008YGMB", 
+        "contra": true, 
+        "id": "923_1", 
+        "polarity": "positive", 
+        "sentence": "It's a great laptop but I had problems updating the BIOS.", 
+        "term": "laptop"
+    }, 
+    "924_0": {
+        "asin": "B00009EEMN", 
+        "contra": true, 
+        "id": "924_0", 
+        "polarity": "positive", 
+        "sentence": "Anyway, this one is certainly a powerhouse, with a bigger processor than most home systems today, coupled with a mediocre sized hard drive (especially when one considers this PC is designed to be a media center, with its very good graphics and CD & DVD burner) and a very crisp display.", 
+        "term": "display"
+    }, 
+    "924_1": {
+        "asin": "B00009EEMN", 
+        "contra": true, 
+        "id": "924_1", 
+        "polarity": "positive", 
+        "sentence": "Anyway, this one is certainly a powerhouse, with a bigger processor than most home systems today, coupled with a mediocre sized hard drive (especially when one considers this PC is designed to be a media center, with its very good graphics and CD & DVD burner) and a very crisp display.", 
+        "term": "processor"
+    }, 
+    "924_2": {
+        "asin": "B00009EEMN", 
+        "contra": true, 
+        "id": "924_2", 
+        "polarity": "negative", 
+        "sentence": "Anyway, this one is certainly a powerhouse, with a bigger processor than most home systems today, coupled with a mediocre sized hard drive (especially when one considers this PC is designed to be a media center, with its very good graphics and CD & DVD burner) and a very crisp display.", 
+        "term": "hard drive"
+    }, 
+    "924_3": {
+        "asin": "B00009EEMN", 
+        "contra": true, 
+        "id": "924_3", 
+        "polarity": "positive", 
+        "sentence": "Anyway, this one is certainly a powerhouse, with a bigger processor than most home systems today, coupled with a mediocre sized hard drive (especially when one considers this PC is designed to be a media center, with its very good graphics and CD & DVD burner) and a very crisp display.", 
+        "term": "CD & DVD burner"
+    }, 
+    "924_4": {
+        "asin": "B00009EEMN", 
+        "contra": true, 
+        "id": "924_4", 
+        "polarity": "positive", 
+        "sentence": "Anyway, this one is certainly a powerhouse, with a bigger processor than most home systems today, coupled with a mediocre sized hard drive (especially when one considers this PC is designed to be a media center, with its very good graphics and CD & DVD burner) and a very crisp display.", 
+        "term": "graphics"
+    }, 
+    "925_0": {
+        "asin": "B00009XYEV", 
+        "contra": true, 
+        "id": "925_0", 
+        "polarity": "negative", 
+        "sentence": "The layout took a little getting used to since I have grown accustomed to having the Windows shortcut keys at the bottom as opposed to up in the right corner.", 
+        "term": "layout"
+    }, 
+    "925_1": {
+        "asin": "B00009XYEV", 
+        "contra": true, 
+        "id": "925_1", 
+        "polarity": "neutral", 
+        "sentence": "The layout took a little getting used to since I have grown accustomed to having the Windows shortcut keys at the bottom as opposed to up in the right corner.", 
+        "term": "Windows shortcut keys"
+    }, 
+    "926:1_0": {
+        "contra": true, 
+        "id": "926:1_0", 
+        "polarity": "positive", 
+        "sentence": "It is made of such solid construction and since I have never had a Mac using my iPhone helped me get used to the system a bit.", 
+        "term": "construction"
+    }, 
+    "926:1_1": {
+        "contra": true, 
+        "id": "926:1_1", 
+        "polarity": "neutral", 
+        "sentence": "It is made of such solid construction and since I have never had a Mac using my iPhone helped me get used to the system a bit.", 
+        "term": "system"
+    }, 
+    "926_0": {
+        "asin": "B0000APSKB", 
+        "contra": true, 
+        "id": "926_0", 
+        "polarity": "negative", 
+        "sentence": "Basically if you're the person who aren't into PC games and just wanna get the work done, this computer is great for you but I wouldn't even recommend watching a movie on this baby.", 
+        "term": "movie"
+    }, 
+    "926_1": {
+        "asin": "B0000APSKB", 
+        "contra": true, 
+        "id": "926_1", 
+        "polarity": "positive", 
+        "sentence": "Basically if you're the person who aren't into PC games and just wanna get the work done, this computer is great for you but I wouldn't even recommend watching a movie on this baby.", 
+        "term": "computer"
+    }, 
+    "927_0": {
+        "asin": "B0000AZ0O0", 
+        "contra": true, 
+        "id": "927_0", 
+        "polarity": "positive", 
+        "sentence": "Appearance in good conditon and works well 70 percent of the time but seems like something is wrong internally sometimes when playing music pc seems to slow down causing break up in sound.", 
+        "term": "Appearance"
+    }, 
+    "927_1": {
+        "asin": "B0000AZ0O0", 
+        "contra": true, 
+        "id": "927_1", 
+        "polarity": "negative", 
+        "sentence": "Appearance in good conditon and works well 70 percent of the time but seems like something is wrong internally sometimes when playing music pc seems to slow down causing break up in sound.", 
+        "term": "playing music"
+    }, 
+    "928:1_0": {
+        "contra": true, 
+        "id": "928:1_0", 
+        "polarity": "positive", 
+        "sentence": "I like coming back to Mac OS but this laptop is lacking in speaker quality compared to my $400  old HP laptop.", 
+        "term": "Mac OS"
+    }, 
+    "928:1_1": {
+        "contra": true, 
+        "id": "928:1_1", 
+        "polarity": "negative", 
+        "sentence": "I like coming back to Mac OS but this laptop is lacking in speaker quality compared to my $400  old HP laptop.", 
+        "term": "speaker quality"
+    }, 
+    "928_0": {
+        "asin": "B0000CFSRP", 
+        "contra": true, 
+        "id": "928_0", 
+        "polarity": "negative", 
+        "sentence": "The screen is great and I can live with the keyboard 's slightly smaller size.", 
+        "term": "keyboard"
+    }, 
+    "928_1": {
+        "asin": "B0000CFSRP", 
+        "contra": true, 
+        "id": "928_1", 
+        "polarity": "positive", 
+        "sentence": "The screen is great and I can live with the keyboard 's slightly smaller size.", 
+        "term": "screen"
+    }, 
+    "929_0": {
+        "asin": "B0000CFW8W", 
+        "contra": true, 
+        "id": "929_0", 
+        "polarity": "negative", 
+        "sentence": "The ZD7010us is a good computer for doing basic functions, but for graphic-intense games, forget it.", 
+        "term": "graphic-intense games"
+    }, 
+    "929_1": {
+        "asin": "B0000CFW8W", 
+        "contra": true, 
+        "id": "929_1", 
+        "polarity": "positive", 
+        "sentence": "The ZD7010us is a good computer for doing basic functions, but for graphic-intense games, forget it.", 
+        "term": "basic functions"
+    }, 
+    "92_0": {
+        "asin": "B00005QJ2M", 
+        "contra": true, 
+        "id": "92_0", 
+        "polarity": "negative", 
+        "sentence": "Although the feature to price ratio is excellent, the quality is suspect.", 
+        "term": "quality"
+    }, 
+    "92_1": {
+        "asin": "B00005QJ2M", 
+        "contra": true, 
+        "id": "92_1", 
+        "polarity": "positive", 
+        "sentence": "Although the feature to price ratio is excellent, the quality is suspect.", 
+        "term": "feature to price ratio"
+    }, 
+    "930_0": {
+        "asin": "B0000CNTBR", 
+        "contra": true, 
+        "id": "930_0", 
+        "polarity": "positive", 
+        "sentence": "I bought this model in September and have been extremely pleased with it except for one thing: the USB ports do not work.", 
+        "term": "model"
+    }, 
+    "930_1": {
+        "asin": "B0000CNTBR", 
+        "contra": true, 
+        "id": "930_1", 
+        "polarity": "negative", 
+        "sentence": "I bought this model in September and have been extremely pleased with it except for one thing: the USB ports do not work.", 
+        "term": "USB ports"
+    }, 
+    "931_0": {
+        "asin": "B0000D93SK", 
+        "contra": true, 
+        "id": "931_0", 
+        "polarity": "positive", 
+        "sentence": "External volume controls are nice, though the built in speakers are weak (it is a laptop).", 
+        "term": "External volume controls"
+    }, 
+    "931_1": {
+        "asin": "B0000D93SK", 
+        "contra": true, 
+        "id": "931_1", 
+        "polarity": "negative", 
+        "sentence": "External volume controls are nice, though the built in speakers are weak (it is a laptop).", 
+        "term": "built in speakers"
+    }, 
+    "931_2": {
+        "asin": "B0000D93SK", 
+        "contra": true, 
+        "id": "931_2", 
+        "polarity": "neutral", 
+        "sentence": "External volume controls are nice, though the built in speakers are weak (it is a laptop).", 
+        "term": "laptop"
+    }, 
+    "932_0": {
+        "asin": "B0000DF2QB", 
+        "contra": true, 
+        "id": "932_0", 
+        "polarity": "negative", 
+        "sentence": "2. The Motion Eye is a nice concept but the image quality is not that great, it is also slow to refresh the image.", 
+        "term": "image quality"
+    }, 
+    "932_1": {
+        "asin": "B0000DF2QB", 
+        "contra": true, 
+        "id": "932_1", 
+        "polarity": "negative", 
+        "sentence": "2. The Motion Eye is a nice concept but the image quality is not that great, it is also slow to refresh the image.", 
+        "term": "image"
+    }, 
+    "932_2": {
+        "asin": "B0000DF2QB", 
+        "contra": true, 
+        "id": "932_2", 
+        "polarity": "positive", 
+        "sentence": "2. The Motion Eye is a nice concept but the image quality is not that great, it is also slow to refresh the image.", 
+        "term": "Motion Eye"
+    }, 
+    "933_0": {
+        "asin": "B0000E6GHM", 
+        "contra": true, 
+        "id": "933_0", 
+        "polarity": "positive", 
+        "sentence": "It is not a game machine but it can do justice to the older games.", 
+        "term": "older games"
+    }, 
+    "933_1": {
+        "asin": "B0000E6GHM", 
+        "contra": true, 
+        "id": "933_1", 
+        "polarity": "negative", 
+        "sentence": "It is not a game machine but it can do justice to the older games.", 
+        "term": "game machine"
+    }, 
+    "934_0": {
+        "asin": "B0000E6GHM", 
+        "contra": true, 
+        "id": "934_0", 
+        "polarity": "negative", 
+        "sentence": "I can play City of Heroes on this laptop, but the graphics suck.", 
+        "term": "graphics"
+    }, 
+    "934_1": {
+        "asin": "B0000E6GHM", 
+        "contra": true, 
+        "id": "934_1", 
+        "polarity": "neutral", 
+        "sentence": "I can play City of Heroes on this laptop, but the graphics suck.", 
+        "term": "City of Heroes"
+    }, 
+    "935_0": {
+        "asin": "B0000E6GHM", 
+        "contra": true, 
+        "id": "935_0", 
+        "polarity": "negative", 
+        "sentence": "the HD did fail just after the 1-year warranty expired (seems to be a frequent problem according to other reviews--even the clicking sounds preceeding the fail) and i installed a new one as well as fresh install of the XP.", 
+        "term": "HD"
+    }, 
+    "935_1": {
+        "asin": "B0000E6GHM", 
+        "contra": true, 
+        "id": "935_1", 
+        "polarity": "neutral", 
+        "sentence": "the HD did fail just after the 1-year warranty expired (seems to be a frequent problem according to other reviews--even the clicking sounds preceeding the fail) and i installed a new one as well as fresh install of the XP.", 
+        "term": "XP"
+    }, 
+    "936_0": {
+        "asin": "B0000U9H40", 
+        "contra": true, 
+        "id": "936_0", 
+        "polarity": "negative", 
+        "sentence": "I was hoping the operating system was a newer version, so that I could use Skype, when I was traveling, also the system is slow, compared to my mac desktop.", 
+        "term": "operating system"
+    }, 
+    "936_1": {
+        "asin": "B0000U9H40", 
+        "contra": true, 
+        "id": "936_1", 
+        "polarity": "negative", 
+        "sentence": "I was hoping the operating system was a newer version, so that I could use Skype, when I was traveling, also the system is slow, compared to my mac desktop.", 
+        "term": "system"
+    }, 
+    "936_2": {
+        "asin": "B0000U9H40", 
+        "contra": true, 
+        "id": "936_2", 
+        "polarity": "neutral", 
+        "sentence": "I was hoping the operating system was a newer version, so that I could use Skype, when I was traveling, also the system is slow, compared to my mac desktop.", 
+        "term": "Skype"
+    }, 
+    "937_0": {
+        "asin": "B0000U9H40", 
+        "contra": true, 
+        "id": "937_0", 
+        "polarity": "positive", 
+        "sentence": "It ran nice but wasso slow.", 
+        "term": "ran"
+    }, 
+    "937_1": {
+        "asin": "B0000U9H40", 
+        "contra": true, 
+        "id": "937_1", 
+        "polarity": "negative", 
+        "sentence": "It ran nice but wasso slow.", 
+        "term": "wasso"
+    }, 
+    "938_0": {
+        "asin": "B0000U9H40", 
+        "contra": true, 
+        "id": "938_0", 
+        "polarity": "negative", 
+        "sentence": "With the exception of screen damage and minor dust, I would describe the overall condition of the unit as \"good\" as everything else appears to be in good working order.", 
+        "term": "screen"
+    }, 
+    "938_1": {
+        "asin": "B0000U9H40", 
+        "contra": true, 
+        "id": "938_1", 
+        "polarity": "negative", 
+        "sentence": "With the exception of screen damage and minor dust, I would describe the overall condition of the unit as \"good\" as everything else appears to be in good working order.", 
+        "term": "dust"
+    }, 
+    "938_2": {
+        "asin": "B0000U9H40", 
+        "contra": true, 
+        "id": "938_2", 
+        "polarity": "positive", 
+        "sentence": "With the exception of screen damage and minor dust, I would describe the overall condition of the unit as \"good\" as everything else appears to be in good working order.", 
+        "term": "unit"
+    }, 
+    "939_0": {
+        "asin": "B0000U9H40", 
+        "contra": true, 
+        "id": "939_0", 
+        "polarity": "positive", 
+        "sentence": "Overall, I think I got a good deal though I'll have to keep an eye out on any changes to the screen's visibility (if damage worsens) and will update any new developments accordingly.", 
+        "term": "deal"
+    }, 
+    "939_1": {
+        "asin": "B0000U9H40", 
+        "contra": true, 
+        "id": "939_1", 
+        "polarity": "negative", 
+        "sentence": "Overall, I think I got a good deal though I'll have to keep an eye out on any changes to the screen's visibility (if damage worsens) and will update any new developments accordingly.", 
+        "term": "screen's visibility"
+    }, 
+    "93_0": {
+        "asin": "B00005QJ2M", 
+        "contra": true, 
+        "id": "93_0", 
+        "polarity": "negative", 
+        "sentence": "In addition, the overall specs are unmatched at the current price by anyone except Compaq.", 
+        "term": "Compaq"
+    }, 
+    "93_1": {
+        "asin": "B00005QJ2M", 
+        "contra": true, 
+        "id": "93_1", 
+        "polarity": "positive", 
+        "sentence": "In addition, the overall specs are unmatched at the current price by anyone except Compaq.", 
+        "term": "overall specs"
+    }, 
+    "946:1_0": {
+        "contra": true, 
+        "id": "946:1_0", 
+        "polarity": "positive", 
+        "sentence": "It also comes with 4G of RAM but if you're like me you want to max that out so I immediately put 8G of RAM in her and I've never used a computer that performs better.", 
+        "term": "performs"
+    }, 
+    "946:1_1": {
+        "contra": true, 
+        "id": "946:1_1", 
+        "polarity": "neutral", 
+        "sentence": "It also comes with 4G of RAM but if you're like me you want to max that out so I immediately put 8G of RAM in her and I've never used a computer that performs better.", 
+        "term": "4G of RAM"
+    }, 
+    "946:1_2": {
+        "contra": true, 
+        "id": "946:1_2", 
+        "polarity": "neutral", 
+        "sentence": "It also comes with 4G of RAM but if you're like me you want to max that out so I immediately put 8G of RAM in her and I've never used a computer that performs better.", 
+        "term": "8G of RAM"
+    }, 
+    "94_0": {
+        "asin": "B000065UPR", 
+        "contra": true, 
+        "id": "94_0", 
+        "polarity": "positive", 
+        "sentence": "The video is \"integrated\" so it's fine for 2d applications, but not for 3d gaming.", 
+        "term": "2d applications"
+    }, 
+    "94_1": {
+        "asin": "B000065UPR", 
+        "contra": true, 
+        "id": "94_1", 
+        "polarity": "positive", 
+        "sentence": "The video is \"integrated\" so it's fine for 2d applications, but not for 3d gaming.", 
+        "term": "video"
+    }, 
+    "94_2": {
+        "asin": "B000065UPR", 
+        "contra": true, 
+        "id": "94_2", 
+        "polarity": "negative", 
+        "sentence": "The video is \"integrated\" so it's fine for 2d applications, but not for 3d gaming.", 
+        "term": "3d gaming"
+    }, 
+    "958:1_0": {
+        "contra": true, 
+        "id": "958:1_0", 
+        "polarity": "positive", 
+        "sentence": "Other than not being a fan of click pads (industry standard these days) and the lousy internal speakers, it's hard for me to find things about this notebook I don't like, especially considering the $350 price tag.", 
+        "term": "price tag"
+    }, 
+    "958:1_1": {
+        "contra": true, 
+        "id": "958:1_1", 
+        "polarity": "negative", 
+        "sentence": "Other than not being a fan of click pads (industry standard these days) and the lousy internal speakers, it's hard for me to find things about this notebook I don't like, especially considering the $350 price tag.", 
+        "term": "click pads"
+    }, 
+    "958:1_2": {
+        "contra": true, 
+        "id": "958:1_2", 
+        "polarity": "negative", 
+        "sentence": "Other than not being a fan of click pads (industry standard these days) and the lousy internal speakers, it's hard for me to find things about this notebook I don't like, especially considering the $350 price tag.", 
+        "term": "internal speakers"
+    }, 
+    "95_0": {
+        "asin": "B000065UPR", 
+        "contra": true, 
+        "id": "95_0", 
+        "polarity": "neutral", 
+        "sentence": "This is true even if I turn off every memory resident program: an expert told me that this occurs from a hardware conflict, but the chip is a combined modem and sound chip, and so they share an interrupt with no way to change this.", 
+        "term": "memory resident program"
+    }, 
+    "95_1": {
+        "asin": "B000065UPR", 
+        "contra": true, 
+        "id": "95_1", 
+        "polarity": "negative", 
+        "sentence": "This is true even if I turn off every memory resident program: an expert told me that this occurs from a hardware conflict, but the chip is a combined modem and sound chip, and so they share an interrupt with no way to change this.", 
+        "term": "hardware conflict"
+    }, 
+    "95_2": {
+        "asin": "B000065UPR", 
+        "contra": true, 
+        "id": "95_2", 
+        "polarity": "neutral", 
+        "sentence": "This is true even if I turn off every memory resident program: an expert told me that this occurs from a hardware conflict, but the chip is a combined modem and sound chip, and so they share an interrupt with no way to change this.", 
+        "term": "chip"
+    }, 
+    "962:1_0": {
+        "contra": true, 
+        "id": "962:1_0", 
+        "polarity": "neutral", 
+        "sentence": "Unfortunately, it runs XP and Microsoft is dropping support next April.", 
+        "term": "XP"
+    }, 
+    "962:1_1": {
+        "contra": true, 
+        "id": "962:1_1", 
+        "polarity": "negative", 
+        "sentence": "Unfortunately, it runs XP and Microsoft is dropping support next April.", 
+        "term": "support"
+    }, 
+    "968:5_0": {
+        "contra": true, 
+        "id": "968:5_0", 
+        "polarity": "negative", 
+        "sentence": "Also, in using the built-in camera, my voice recording for my vlog sounds like the interplanetary transmissions in the \"Star Wars\" saga.", 
+        "term": "voice recording"
+    }, 
+    "968:5_1": {
+        "contra": true, 
+        "id": "968:5_1", 
+        "polarity": "neutral", 
+        "sentence": "Also, in using the built-in camera, my voice recording for my vlog sounds like the interplanetary transmissions in the \"Star Wars\" saga.", 
+        "term": "built-in camera"
+    }, 
+    "96_0": {
+        "asin": "B000066SSY", 
+        "contra": true, 
+        "id": "96_0", 
+        "polarity": "positive", 
+        "sentence": "I highly recommend installing VIA's 4 in 1 update, helped with the graphics issue somewhat, but over all the system is not stable.", 
+        "term": "VIA's 4 in 1 update"
+    }, 
+    "96_1": {
+        "asin": "B000066SSY", 
+        "contra": true, 
+        "id": "96_1", 
+        "polarity": "negative", 
+        "sentence": "I highly recommend installing VIA's 4 in 1 update, helped with the graphics issue somewhat, but over all the system is not stable.", 
+        "term": "graphics"
+    }, 
+    "96_2": {
+        "asin": "B000066SSY", 
+        "contra": true, 
+        "id": "96_2", 
+        "polarity": "negative", 
+        "sentence": "I highly recommend installing VIA's 4 in 1 update, helped with the graphics issue somewhat, but over all the system is not stable.", 
+        "term": "system"
+    }, 
+    "97_0": {
+        "asin": "B000069BJ9", 
+        "contra": true, 
+        "id": "97_0", 
+        "polarity": "positive", 
+        "sentence": "It is a very nice portable, the screen is quite large so your eyes are going to be quite comfortable, BUT it is very slow.", 
+        "term": "portable"
+    }, 
+    "97_1": {
+        "asin": "B000069BJ9", 
+        "contra": true, 
+        "id": "97_1", 
+        "polarity": "positive", 
+        "sentence": "It is a very nice portable, the screen is quite large so your eyes are going to be quite comfortable, BUT it is very slow.", 
+        "term": "screen"
+    }, 
+    "97_2": {
+        "asin": "B000069BJ9", 
+        "contra": true, 
+        "id": "97_2", 
+        "polarity": "negative", 
+        "sentence": "It is a very nice portable, the screen is quite large so your eyes are going to be quite comfortable, BUT it is very slow.", 
+        "term": "slow"
+    }, 
+    "98_0": {
+        "asin": "B00006FMYA", 
+        "contra": true, 
+        "id": "98_0", 
+        "polarity": "positive", 
+        "sentence": "Despite the flimsy construction I love the screen and the Powerbook with some added ram and an airport makes a great portable web surfing machine.", 
+        "term": "portable web surfing machine"
+    }, 
+    "98_1": {
+        "asin": "B00006FMYA", 
+        "contra": true, 
+        "id": "98_1", 
+        "polarity": "positive", 
+        "sentence": "Despite the flimsy construction I love the screen and the Powerbook with some added ram and an airport makes a great portable web surfing machine.", 
+        "term": "Powerbook"
+    }, 
+    "98_2": {
+        "asin": "B00006FMYA", 
+        "contra": true, 
+        "id": "98_2", 
+        "polarity": "positive", 
+        "sentence": "Despite the flimsy construction I love the screen and the Powerbook with some added ram and an airport makes a great portable web surfing machine.", 
+        "term": "airport"
+    }, 
+    "98_3": {
+        "asin": "B00006FMYA", 
+        "contra": true, 
+        "id": "98_3", 
+        "polarity": "positive", 
+        "sentence": "Despite the flimsy construction I love the screen and the Powerbook with some added ram and an airport makes a great portable web surfing machine.", 
+        "term": "screen"
+    }, 
+    "98_4": {
+        "asin": "B00006FMYA", 
+        "contra": true, 
+        "id": "98_4", 
+        "polarity": "negative", 
+        "sentence": "Despite the flimsy construction I love the screen and the Powerbook with some added ram and an airport makes a great portable web surfing machine.", 
+        "term": "construction"
+    }, 
+    "99_0": {
+        "asin": "B00006FMYA", 
+        "contra": true, 
+        "id": "99_0", 
+        "polarity": "negative", 
+        "sentence": "The titanium powerbooks are definitely the snazziest laptops ever made even if they are a bit flimsy.", 
+        "term": "flimsy"
+    }, 
+    "99_1": {
+        "asin": "B00006FMYA", 
+        "contra": true, 
+        "id": "99_1", 
+        "polarity": "positive", 
+        "sentence": "The titanium powerbooks are definitely the snazziest laptops ever made even if they are a bit flimsy.", 
+        "term": "titanium powerbooks"
+    }
+}
