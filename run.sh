@@ -2,7 +2,7 @@
 
 mode=$1
 
-#. ~/anaconda2/etc/profile.d/conda.sh
+#. ~/anaconda3/etc/profile.d/conda.sh
 #conda activate p3-torch10
 
 #export CUDA_VISIBLE_DEVICES=1 
