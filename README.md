@@ -8,7 +8,7 @@ We found Aspect Sentiment Classifier does poorly on ASPECT-LEVEL sentiment class
 We leverage the dataset from SemEval 2014 but augment the testing set of laptop with more contrastive sentences to test aspect-level sentiment. The dataset is self-contained in this repository.
 
 ### Environment
-This code base is tested on Ubuntu 16.04 with PyTorch 1.0.1 and Python3.6 with huggingface's pytorch transformer 0.4```pip install pytorch-pretrained-bert==0.4.0```.
+This code base is tested on GTX 1080 Ti, with Ubuntu 16.04, Python3.6, PyTorch 1.0.1 and pytorch transformer 0.4 ```pip install pytorch-pretrained-bert==0.4.0```.
 
 ### Training
 
