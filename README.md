@@ -14,7 +14,7 @@ This code base is tested on Ubuntu 16.04 with PyTorch 1.0.1 and Python3.6 with h
 
 Download weights of BERT-DK:  
 [laptop](https://drive.google.com/file/d/1TRjvi9g3ex7FrS2ospUQvF58b11z0sw7/view?usp=sharing) to ```pt_model/laptop_pt_review```  
-[restaurant](https://drive.google.com/file/d/1nS8FsHB2d-s-ue5sDaWMnc5s2U1FlcMT/view?usp=sharing) ) to ```pt_model/rest_pt_review```  
+[restaurant](https://drive.google.com/file/d/1nS8FsHB2d-s-ue5sDaWMnc5s2U1FlcMT/view?usp=sharing) to ```pt_model/rest_pt_review```  
 
 ```
 bash run.sh train
