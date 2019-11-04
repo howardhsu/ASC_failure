@@ -28,5 +28,9 @@ bash run.sh test
 
 ### Citation
 ```
-paste bib here.
+@article{xu2019afailure,
+  title={A Failure of Aspect Sentiment Classifiers and an Adaptive Re-weighting Solution},
+  author={Xu, Hu and Liu, Bing and Shu, Lei and Yu, Philip S},
+  year={2019}
+}
 ```
