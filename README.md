@@ -1,5 +1,5 @@
 # ASC_failure
-code for the paper about the failure of Aspect Sentiment Classifier (ASC).
+code for the paper: [A Failure of Aspect Sentiment Classifiers and an Adaptive Re-weighting Solution](http://arxiv.org/abs/1911.01460).
 
 ### Problem to Solve
 We found Aspect Sentiment Classifier does poorly on ASPECT-LEVEL sentiment classification, because most training examples have the same sentence-level and aspect-level polarity. Sentences with more than 1 opinions of different polarities (we call them contrastive sentences) are rare but truly indicating aspect-level polarity.
