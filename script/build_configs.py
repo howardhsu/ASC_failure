@@ -45,35 +45,11 @@ baseline_config = {
         "test_file": ["asp|test_full.json", "asp|test_contra.json"],
     },
     
-    "focalloss_3.0": {
-        "trainer": "Focalloss",
-        "model": "ClassifierWithFocalLoss",
-        "num_train_epochs": 4,
-        "gamma": 3.0,
-        "test_file": ["asp|test_full.json", "asp|test_contra.json"],
-    },
-    
-    "focalloss_4.0": {
-        "trainer": "Focalloss",
-        "model": "ClassifierWithFocalLoss",
-        "num_train_epochs": 4,
-        "gamma": 4.0,
-        "test_file": ["asp|test_full.json", "asp|test_contra.json"],
-    },
-    
     "adaweight_-0.05": {
         "trainer": "AdaWeight",
         "model": "ClassifierWithSampleWeight",
         "num_train_epochs": 10,
         "factor": -0.05,
-        "test_file": ["asp|test_full.json", "asp|test_contra.json"],
-    },
-    
-    "adacontrauniweight": {
-        "trainer": "AdaContraUniWeight",
-        "model": "ClassifierWithSampleWeight",
-        "num_train_epochs": 10,
-        "factor": 0.0,
         "test_file": ["asp|test_full.json", "asp|test_contra.json"],
     },
     
